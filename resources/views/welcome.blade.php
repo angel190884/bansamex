@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    BansamexV1s
+                    BanSaMex
                 </div>
 
                 <div class="links">
